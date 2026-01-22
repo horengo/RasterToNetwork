@@ -3,9 +3,13 @@ Jupyter Notebook to transform a raster file depicting spatial conections (roads,
 
 The Notebook is designed to provide tools to:
 
-- Skeletonise a raster network-style file
+- Skeletonise a raster network-style file using a rage of values
+<img width="198" height="170" alt="image" src="https://github.com/user-attachments/assets/d10c8085-d9c9-4bd8-89ef-a872b7198e3d" />
 
-- <img width="982" height="839" alt="image" src="https://github.com/user-attachments/assets/a86197b5-309a-4cac-a46e-28ad267e09ae" />
+
+
+<img width="198" height="170" alt="image" src="https://github.com/user-attachments/assets/8d85b53a-4b1f-465a-960f-95c4f1a407db" />
+
 
 - 
 
