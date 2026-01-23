@@ -1,9 +1,9 @@
 ## RasterToNetwork
 Jupyter Notebook to transform a raster file depicting spatial conections (roads, corridors, rivers, channels, etc.) into a full network <br>
 
-<img width="618" height="839" alt="image" src="https://github.com/user-attachments/assets/9a9d27c0-1216-4cf8-aa0c-4a91c1ceb1d0" />
-<img width="618" height="839" alt="image" src="https://github.com/user-attachments/assets/ade6c428-9746-4ec0-b65d-98a0eb11d761" />
-<img width="618" height="839" alt="image" src="https://github.com/user-attachments/assets/a7974ab2-4cc9-4f4a-97eb-4ce087e20ff7" />
+<img width="150" height="203" alt="image" src="https://github.com/user-attachments/assets/9a9d27c0-1216-4cf8-aa0c-4a91c1ceb1d0" />
+<img width="150" height="203" alt="image" src="https://github.com/user-attachments/assets/ade6c428-9746-4ec0-b65d-98a0eb11d761" />
+<img width="150" height="203" alt="image" src="https://github.com/user-attachments/assets/a7974ab2-4cc9-4f4a-97eb-4ce087e20ff7" />
 
 <br>
 
