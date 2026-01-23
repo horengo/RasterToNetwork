@@ -15,7 +15,7 @@ The Notebook is designed to provide tools to: <br>
   - Gap filling: endpoint to vertex, joins line endpoints and vertices in nearby lines within a user defined angle and distance
   - Joins closely running (parallel or near-parallel) lines by adding connectors within a user defined angle and distance
   - Adds directionality from a user-provided slope/aspect/flow-direction raster
-  - Adds costs per edge from a user-provided cost raster
+  - Adds costs per edge from a user-provided cost raster <br>
 - Provides network metrics for neodes and edges as columns in the gpkg file's table <br>
 
 ## Setting up the environment
