@@ -4,6 +4,7 @@ Jupyter Notebook to transform a raster file depicting spatial conections (roads,
 <img width="150" height="203" alt="image" src="https://github.com/user-attachments/assets/9a9d27c0-1216-4cf8-aa0c-4a91c1ceb1d0" />
 <img width="150" height="203" alt="image" src="https://github.com/user-attachments/assets/ade6c428-9746-4ec0-b65d-98a0eb11d761" />
 <img width="150" height="203" alt="image" src="https://github.com/user-attachments/assets/e82cf767-9342-45a0-8197-52d1474a9e2c" />
+<img width="150" height="203" alt="image" src="https://github.com/user-attachments/assets/729c4dfd-5909-433b-90bb-017b505e10ac" />
 
 <br>
 
